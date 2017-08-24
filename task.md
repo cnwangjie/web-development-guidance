@@ -221,9 +221,7 @@ const data = watch({
     </table>
 
     </div>
-    <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
-    <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script src="https://cdn.bootcss.com/vue/2.4.2/vue.min.js"></script>
+    <script src="https://cdn.bootcss.com/vue/2.4.2/vue.js"></script>
     <script src="./script.js"></script><!-- 这里需要你自己在另一个文件中编写脚本 -->
   </body>
 </html>
@@ -261,3 +259,4 @@ console.log('server is running in port 9000')
  - [任务5](https://www.cnwangjie.com/task5answer.zip)
  - [任务6](https://codepen.io/cnwangjie/pen/wqreVO)
  - [任务7](https://codepen.io/cnwangjie/pen/vJdbPM)
+ - [任务8](https://www.cnwangjie.com/task8answer.zip)
